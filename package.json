@@ -1,0 +1,23 @@
+{
+  "name": "gulu-demo",
+  "version": "0.0.1",
+  "description": "this is a UI frame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moye-dev/wheel-one.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "moye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moye-dev/wheel-one/issues"
+  },
+  "homepage": "https://github.com/moye-dev/wheel-one#readme"
+}
