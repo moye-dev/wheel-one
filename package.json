@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/moye-dev/wheel-one/issues"
   },
-  "homepage": "https://github.com/moye-dev/wheel-one#readme"
+  "homepage": "https://github.com/moye-dev/wheel-one#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
