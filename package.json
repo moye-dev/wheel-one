@@ -25,6 +25,12 @@
     "vue": "^2.6.14"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "@vue/component-compiler-utils": "^2.0.0",
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.12.5",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
