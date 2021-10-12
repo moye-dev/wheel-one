@@ -22,12 +22,14 @@
   "homepage": "https://github.com/moye-dev/wheel-one#readme",
   "dependencies": {
     "resolve-url": "^0.2.1",
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "vue-hot-reload-api": "^2.3.4"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.0.0",
     "node-sass": "^4.9.0",
     "parcel-bundler": "^1.12.5",
+    "sass": "^1.42.1",
     "vue-template-compiler": "^2.5.16"
   },
   "alias": {
